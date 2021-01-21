@@ -32,15 +32,5 @@ public class Main {
         Socks.bark();
         Socks.jump();
         Socks.sayYourName();
-
-
-
-
-
-
-
-
-
-
     }
 }
